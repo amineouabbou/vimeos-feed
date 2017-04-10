@@ -1,5 +1,5 @@
 # vimeos-feed
-Get latest videos from vimeos using vimeo's API
+Get latests videos from vimeo using the vimeo's API
 
 # Author
 Amine OUABBOU
